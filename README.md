@@ -40,7 +40,7 @@
 - 江俊杰 [CSS Click Events](http://tympanus.net/codrops/2012/12/17/css-click-events/) [翻译] (https://hyyqcweb.github.io/translate.html)
 - 赵凯峰 [Introducing the CSS clip-path Property](https://www.sitepoint.com/introducing-css-clip-path-property/)
 - 王瑶 [Everything You Need to Know About the CSS will-change Property](https://dev.opera.com/articles/css-will-change-property/) [翻译](https://blacklike.github.io/happylearn/fanyi.html)
-- 尹飞燕 [Ways You Need To Tell The Browser How To Optimize](https://css-tricks.com/ways-need-tell-browser-optimize/)
+- 尹飞燕 [Ways You Need To Tell The Browser How To Optimize](https://css-tricks.com/ways-need-tell-browser-optimize/)[翻译](https://github.com/Ysidm/team.github.io/blob/master/fanyi-one.md)
 - 周冰婕 [More Meaningful CSS](http://snook.ca/archives/html_and_css/more-meaningful-css) [翻译](https://zptczbj.github.io/weeks/fanyi.html)
 - 单超艺 [Tips for Aligning Icons to Text](https://css-tricks.com/tips-aligning-icons-text/)
 - 鲁好德 [ease-out, in; ease-in, out](https://css-tricks.com/ease-out-in-ease-in-out/)
